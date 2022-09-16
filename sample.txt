@@ -4,6 +4,7 @@ Hello,
   I am from Kollam, Kerala.
   
 #Education
-  10th and 12th pass
+  10th and 12th pass    
+  pursuing b.tech
 
 ##Thenks
